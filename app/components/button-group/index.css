@@ -1,0 +1,13 @@
+@import 'styles/variables.css';
+
+.ButtonGroup {
+  display: flex;
+  justify-content: flex-end;
+  position: absolute;
+  top: 15px;
+  right: var(--padding);
+}
+
+.ButtonGroup .IconButton {
+  margin-left: 5px;
+}

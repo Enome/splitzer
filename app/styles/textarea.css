@@ -1,0 +1,15 @@
+@import 'styles/variables.css';
+
+.TextArea {
+  padding: var(--padding);
+  border: 0;
+  position: absolute;
+  top: 60px;
+  bottom: 35px;
+  width: 50%;
+  box-sizing: border-box;
+  outline: 0;
+  color: gray;
+  font-size: 14px;
+  resize: none;
+}

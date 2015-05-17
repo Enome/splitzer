@@ -1,0 +1,23 @@
+@import 'styles/variables.css';
+
+.Logo {
+  display: flex;
+  position: absolute;
+  left: var(--padding);
+  top: 15px;
+}
+
+.Logo-sign {
+  color: var(--color-primary);
+  font-size: 30px;
+  margin-right: 5px;
+  align-self: center;
+}
+
+.Logo-text {
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 13px;
+  align-self: center;
+}

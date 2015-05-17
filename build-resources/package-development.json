@@ -1,0 +1,9 @@
+{
+  "name": "Splitzer",
+  "version": "1.0.0",
+  "main": "index.html",
+  "window": {
+    "icon": "logo.png",
+    "toolbar": true
+  }
+}

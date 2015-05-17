@@ -1,0 +1,17 @@
+@import 'styles/variables.css';
+
+.IconButton {
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  padding: 0;
+  border: 0 none;
+  background-color: var(--color-primary);
+  color: var(--color-secondary);
+  border-radius: 5px;
+  outline: 0;
+}
+
+.IconButton.isActive {
+  color: white;
+}
